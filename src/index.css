@@ -71,9 +71,8 @@ body {
     width: 450px;
     margin: 0 auto;
   }
-  .container {
-    margin-left: 40px;
-    margin-right: 40px;
+  .search {
+    width: 400px;
   }
   .image-gallery {
     gap: 20px;
