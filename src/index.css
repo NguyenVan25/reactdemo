@@ -64,19 +64,19 @@ body {
     gap: 20px;
   }
   .button button {
-    width: 400px;
+    width: 380px;
     background-color: #12131d;
   }
   .search-container {
-    width: 450px;
-    margin: 0 auto;
+    max-width: 400px;
+    margin: auto;
   }
   .search {
-    width: 400px;
+    width: 380px;
   }
   .image-gallery {
     gap: 20px;
-    padding: 0 10px;
+    margin: auto;
   }
   .container {
     margin: auto;
