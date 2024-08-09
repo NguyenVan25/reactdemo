@@ -79,6 +79,9 @@ body {
     gap: 20px;
     padding: 0 10px;
   }
+  .container {
+    margin: auto;
+  }
 }
 h2 {
   margin-top: 70px;
