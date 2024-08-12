@@ -111,7 +111,7 @@ function App() {
               ))
             : showImages
             ? // Hiển thị tối đa 20 token đầu tiên
-              filteredTokens.slice(0, 20).map((token, index) => (
+              filteredTokens.map((token, index) => (
                 <div key={index} className="token-item">
                   <img
                     src={token.logoURI ? token.logoURI : DEFAULT_TOKEN_IMAGE}
